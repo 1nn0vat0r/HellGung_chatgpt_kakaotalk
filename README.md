@@ -8,3 +8,6 @@ Chat GPT를 활용한
 
 
 챗지 오픈 빌더 기반의 챗봇입니다
+
+프로젝트 정리 노션 사이트
+https://probable-telescope-a1b.notion.site/ChatGPT-e69cd4cb4e0b40f982e36284344f179e
